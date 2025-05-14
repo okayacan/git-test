@@ -2,4 +2,4 @@
 yeni bir satir ekliyorum.
 2. satiri da ekliyorum.
 
-pythoin code is not here.
+python code is not here.
